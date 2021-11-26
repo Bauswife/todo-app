@@ -1,0 +1,9 @@
+:root {
+    --default-font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    --default-background: white;
+    --grey: #aaa;
+    --light-grey: #ccc;
+    --blue: cornflowerblue;
+    --light-blue: rgb(124, 162, 231);
+    --dark-blue: rgb(75, 122, 209);
+}
